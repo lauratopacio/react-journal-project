@@ -1,6 +1,6 @@
 # react-journal-page
 Uso de Material UI, Estructura y style
-Este ejercicio incluye Redux y autenticacion en firebase
+Este ejercicio incluye Redux, autenticacion en firebase y cloudinary para almacenar imagenes
 
 ejecutar lo siguiente
 yarn i
@@ -18,3 +18,12 @@ Se configuro redux
 ejecutar para generarlo
 
 redux-slice + tab
+
+Este proyecto incluye:
+- inicio de sesion con Google, gmail
+- autenticacion con firebase
+- almacenamiento de imagenes en cloudinary
+= actualizacion de informacion de menu lateral
+- agregar imagenes y mostrarlas automaticamente
+- eliminar pagina
+- crud en firebase
